@@ -1,0 +1,19 @@
+TinySegmenter 0.1 -- Super compact Japanese tokenizer
+
+Original written in JavaScript by:
+(c) 2008 Taku Kudo <taku@chasen.org>
+TinySegmenter is freely distributable under the terms of a new BSD licence.
+For details, see http://lilyx.net/pages/tinysegmenter_licence.txt
+
+
+"TinySegmenter in Python" is written by Masato Hagiwara
+See http://lilyx.net/pages/tinysegmenterp.html
+
+
+Dart version written by Clement Skau
+
+Converted from the Python port written by Masato Hagiwara, 
+which in turn was ported from the original JavaScript version by Taku Kudo.
+
+The original JavaScript version went offline shortly before I started this,
+so one extra level of indirection was needed. Sorry.
